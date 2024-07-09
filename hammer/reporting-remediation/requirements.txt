@@ -11,3 +11,4 @@ requests
 requests_aws4auth
 slackclient
 ipwhois
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
